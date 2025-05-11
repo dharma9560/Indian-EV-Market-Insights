@@ -16,5 +16,11 @@ The dashboard summarizes the key KPIs and provides sales, revenue and growth tre
 
 ![EV Market Insights Dashboard_2](https://github.com/user-attachments/assets/359d9fba-b7e4-4c5b-9d0c-8781c69fa61c)
 
+## **Insights**
+* Sales and market penetration rates for two-wheeler EVs are observed to be higher than four-wheeler.
+* In the two-wheeler segment, the leading competitors are OLA, TVS, and Ather, while in four-wheeler segment, the top players are TATA, Mahindra, and MG.
+* Karnataka, Kerala and Maharashtra are the top 3 states that have shown steady performance in both sales and market penetration rates.
+* Sikkim is the only state with zero EV sales across all three fiscal years.
+
 ## **Conclusion**
 This dashboard provides a brief overview of the Indian EV market and answers the preliminary questions. In the future, adding more information on the charging station infrastructure and the government incentives and subsidies may also be beneficial in helping the stakeholders address their business problem.
